@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Meu nome é Rian Keven, atualmente estou cursando Desenvolvimento de Sistemas. Tenho habilidades em linguagens como HTML,CSS, Python e JavaScript, estou comprometido em me tornar um desenvolvedor de software de excelência. Estou em busca de oportunidades para aplicar e expandir meus conhecimentos. Estou ansioso para contribuir para soluções inovadoras e continuar crescendo nesta emocionante jornada como desenvolvedor. 👋
+![Rian keven GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian9124&theme=nightowlicons=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
