@@ -7,7 +7,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rian9124&show_icons=true&count_private=true&hide_border=true&title_color=2FB0FA&icon_color=2FB0FA&text_color=c9d1d9&bg_color=0d1117" alt="Rian Keven github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian9124&layout=compact&hide_border=true&title_color=2FB0FA&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 ### Main skills:
 
 <div align="left">
