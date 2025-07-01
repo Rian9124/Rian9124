@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2FB0FA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rian+Keven;I+study+systems+development+in+the+Proz+Education;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rian9124&show_icons=true&count_private=true&hide_border=true&title_color=2FB0FA&icon_color=2FB0FA&text_color=c9d1d9&bg_color=0d1117" alt="Rian Keven github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian9124&layout=compact&hide_border=true&title_color=2FB0FA&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RianKJP&show_icons=true&count_private=true&hide_border=true&title_color=2FB0FA&icon_color=2FB0FA&text_color=c9d1d9&bg_color=0d1117" alt="Rian Keven github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianKJP&layout=compact&hide_border=true&title_color=2FB0FA&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
-### Main skills:
+<h3>Main skills:</h3> 
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="typescript logo"  />
@@ -66,13 +66,13 @@
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rian9124}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RianKJP}/count.svg" /></p> 
 <br></div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rian9124/Rian9124/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rian9124/Rian9124/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rian9124/Rian9124/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RianKJP/RianKJP/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RianKJP/RianKJP/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RianKJP/RianKJP/output/pacman-contribution-graph.svg">
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2FB0FA&height=120&section=footer"/>
