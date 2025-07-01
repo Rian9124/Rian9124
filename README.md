@@ -31,8 +31,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="nestjs logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
  
 ### Tools:
